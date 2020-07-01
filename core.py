@@ -5,7 +5,7 @@ import tkinter.font as tkfont
 from tkinter import *
 from tkinter.ttk import *
 
-# i need dat window
+# window
 root = tk.Tk()
 
 pic = PhotoImage(file="qqq.pgm")
